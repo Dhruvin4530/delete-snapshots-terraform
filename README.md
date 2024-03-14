@@ -4,4 +4,6 @@ Many times we need to create a snapshot of the EBS volume or copy the AMI from o
 
 After you no longer need an Amazon EBS snapshot of a volume, you can delete it. Deleting a snapshot does not affect the volume. Deleting a volume does not affect the snapshots made from it.
 
+![1](https://github.com/Dhruvin4530/delete-snapshots-terraform/blob/main/1.jpg)
+
 Read the detailed overview [here](https://medium.com/@dksoni4530/how-to-delete-the-aws-ebs-volumes-snapshots-using-the-lambda-function-07feaf1c36cb).
